@@ -1,0 +1,40 @@
+.container-tabs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav {
+  background-color: black !important;
+}
+
+.date-dropdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.expiryDates {
+  width: 14vw;
+  margin-left: 1rem;
+}
+
+.nifty-data {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 2rem;
+}
+.nifty50 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 1rem;
+  margin: 0 1rem;
+}
+.bankNifty {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
