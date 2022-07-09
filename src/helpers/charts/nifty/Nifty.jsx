@@ -42,7 +42,7 @@ const Nifty = ({ niftyData, niftyPETOI, niftyCETOI }) => {
               ATM={ATM}
               title="Change in OI"
               height={500}
-              width={1200}
+              width={900}
             />
           </div>
           <div className="container-right col">
